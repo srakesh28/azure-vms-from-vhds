@@ -22,10 +22,8 @@ https://storageaccountname.blob.core.windows.net/system/Microsoft.Compute/Images
 
 Note its Critical : Image has to be in /system/Microsoft.Compute/Images/vhds/ in this path and in same storage account where you will create copies of new vms.
 
-Now Use this template to deploy as many VM’s as you need
-
-
- <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsrakesh28%2Fazure-vms-from-vhds2Fmaster%2Fwindows-vm-vhds%2Fazuredeploy.json" target="_blank">
+Now Use this template to deploy as many VM’s as you need.
+ <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/srakesh28/azure-vms-from-vhds/master/windows-vm-vhds/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
