@@ -11,7 +11,7 @@ b)	Create a Linux VM from Gallery ( I tried with Ubuntu 14) and customize it as 
 
 c)	Follow this steps to capture this as image:  
 
-https://github.com/Azure/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-capture-image-resource-manager.md
+https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-capture-image/
 
 d)	 Once Image is captured it will be in your storage account  in path as below  (Get this path from UI of Storage Blob  and leave image as is copy the URL) , you will see something like below
 
