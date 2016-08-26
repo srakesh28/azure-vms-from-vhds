@@ -1,4 +1,5 @@
-Azure Arm Templates IaaSv2 - Deploy 1 number of Windows VM's from custom VHD image with Data Disks
+# Azure Arm Templates IaaSv2 - Deploy  Windows VM's from custom VHD image with Data Disks
+<HTML>
 
 This Azure Arm Template deploys n number of Ubuntu VM's and assumes following is in place
 
@@ -20,9 +21,11 @@ b) Now Follow steps to sysprep at OS Level and Caputure Image :  http://www.code
 https://storageaccountname.blob.core.windows.net/system/Microsoft.Compute/Images/vhds/windows-image-name.vhd
 
 Note its Critical : Image has to be in /system/Microsoft.Compute/Images/vhds/ in this path and in same storage account where you will create copies of new vms.
- 
+ <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsrakesh28%2Fazure-vms-from-vhds2Fmaster%2Fwindows-vm-vhds%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
 
 Now Use this template to deploy as many VM’s as you need.
 
 
-ScreenShot
+![ScreenShot](https://github.com/srakesh28/azure-iaasv2-arm/blob/master/IaaSv2-vnet-vms-pip.jpg)
