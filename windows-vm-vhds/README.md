@@ -29,5 +29,5 @@ https://storageaccountname.blob.core.windows.net/system/Microsoft.Compute/Images
 Now Use this template to deploy as many VM’s as you need.
 
 
-ScreenShot
+![ScreenShot](https://github.com/srakesh28/azure-iaasv2-arm/blob/master/IaaSv2-vnet-vms-pip.jpg)
 </html>
