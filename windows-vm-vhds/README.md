@@ -1,7 +1,7 @@
-# Azure Arm Templates IaaSv2 - Deploy  Windows VM's from custom VHD image with Data Disks
+# Azure Arm Templates IaaSv2 - Deploy Windows VM's from custom VHD image with Data Disks
 <HTML>
 
-This Azure Arm Template deploys n number of Ubuntu VM's and assumes following is in place
+This Azure Arm Template deploys a Windows VM and assumes following is in place
 
 Onetime steps:
 
