@@ -21,11 +21,11 @@ b) Now Follow steps to sysprep at OS Level and Capture Image :  http://www.codei
 https://storageaccountname.blob.core.windows.net/system/Microsoft.Compute/Images/vhds/windows-image-name.vhd
 
 Note its Critical : Image has to be in /system/Microsoft.Compute/Images/vhds/ in this path and in same storage account where you will create copies of new vms.
+
+Now Use this template to deploy as many VM’s as you need.
  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsrakesh28%2Fazure-vms-from-vhds2Fmaster%2Fwindows-vm-vhds%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-
-Now Use this template to deploy as many VM’s as you need.
 
 
 ![ScreenShot](https://github.com/srakesh28/azure-iaasv2-arm/blob/master/IaaSv2-vnet-vms-pip.jpg)
