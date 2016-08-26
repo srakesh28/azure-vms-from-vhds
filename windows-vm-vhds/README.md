@@ -14,7 +14,7 @@ Onetime steps:
 a) Note if it's SQL VM from Gallery you need to Sysprep at SQL Level also see steps here 
   https://msdn.microsoft.com/en-us/library/ee210664.aspx
 
-b) Now Follow steps to sysprep at OS Level and Caputure Image :  http://www.codeisahighway.com/how-to-capture-your-own-custom-virtual-machine-image-under-azure-resource-manager-api/
+b) Now Follow steps to sysprep at OS Level and Capture Image :  http://www.codeisahighway.com/how-to-capture-your-own-custom-virtual-machine-image-under-azure-resource-manager-api/
 
 4)) Once Image is captured it will be in your storage account in path as below (Get this path from UI of Storage Blob and leave image as is copy the URL) , you will see something like below
 
